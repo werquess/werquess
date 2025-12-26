@@ -28,7 +28,7 @@ Yazılım dünyasında kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve �
 ### 📊 GitHub İstatistiklerim
 
 <p align="left">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=werquess&show_icons=true&theme=dark&rank_icon=github" alt="Oğuz Mete GitHub Stats" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=werquess&show_icons=true&theme=dark&rank_icon=github" alt="werquess GitHub Stats" />
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werquess&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 </p>
 
