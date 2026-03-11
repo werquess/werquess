@@ -1,58 +1,39 @@
-# Merhaba, ben Oğuz Mete! 👋
+# Merhaba, ben Oğuz Mete Yelten! 👋
 
-### 🐍 Yazılım Geliştirici | Python & Web Teknolojileri
+### 🚀 Software & Creative Developer
 
-Yazılım dünyasında kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve öğrendiklerimi projelere dökmeye odaklanmış bir geliştiriciyim. Şu an ağırlıklı olarak **Python** ile backend ve **HTML/CSS** ile frontend projeleri üzerinde çalışıyorum.
-
----
-
-### 🚀 Nelerle İlgileniyorum?
-
-- 🛠 **Backend:** Python ile veri yönetimi ve uygulama mantığı geliştirme.
-- 🎨 **Frontend:** Modern, şık ve kullanıcı dostu arayüz tasarımları.
-- 📊 **Projeler:** Muhasebe uygulamaları ve etkileşimli web siteleri.
+Yaklaşık **3 yıldır** yazılım dünyasının içindeyim. Kodun mantığına (Python/C#) hakimiyetimi, görsel estetikle (After Effects/Web) birleştirmeyi seviyorum. Şu sıralar **Modern Web Teknolojileri** üzerine yoğunlaşmış durumdayım.
 
 ---
 
-### 🛠 Teknolojiler ve Araçlar
+### 🛠️ Nelerle Uğraşıyorum?
 
-<p style="display:flex; justify-content: space-between;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+* **Software Development:** Python ile otonom **drone yazılımları** geliştirdim ve C# (.NET) ile işlevsel **Windows masaüstü uygulamaları** inşa ettim.
+* **Web & Mobile:** Şu an HTML5, CSS3 ve JavaScript ekosisteminde modern web deneyimleri tasarlıyorum. Boş vakitlerimde **'vibe coding'** yaklaşımıyla mobil uygulama dünyasını keşfediyorum.
+* **Creative Arts:** Kod yazmadığım zamanlarda **After Effects** kullanarak video kurgu ve hareketli grafikler (motion graphics) üretiyorum.
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 🧰 Teknolojik Alet Çantam
 
-<p align="left">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=werquess&show_icons=true&theme=dark&rank_icon=github" alt="werquess GitHub Stats" />
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werquess&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-</p>
+| Kategori | Araçlar & Diller |
+| :--- | :--- |
+| **Diller** | `Python`, `C# (.NET)`, `JavaScript`, `HTML5`, `CSS3` |
+| **Yaratıcı Araçlar** | `Adobe After Effects`, `Video Editing` |
+| **Yöntemler** | `Vibe Coding`, `Web Development`, `Desktop Apps` |
+
+---
+
+### 📈 GitHub İstatistiklerim
+
+![Oğuz'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=werquess&show_icons=true&theme=radical)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=werquess&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Benimle İletişime Geç
 
-- 📧 **E-posta:** [yeltenoguzmete0@gmail.com]
+* 📧 [E-posta](yeltenoguzmete0@gmail.com)
 
 ---
-
-*"Kod yazmak, bir problemi çözmekten daha fazlasıdır; o problemi bir sanat eserine dönüştürmektir."*
-
-<!--
-**werquess/werquess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Kod yazmak bir bilimdir, onu estetikle birleştirmek ise bir sanattır."*
