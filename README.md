@@ -24,12 +24,6 @@ Yaklaşık **3 yıldır** yazılım dünyasının içindeyim. Kodun mantığına
 
 ---
 
-### 📈 GitHub İstatistiklerim
-
-![Oğuz'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=werquess&show_icons=true&theme=radical)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=werquess&layout=compact&theme=radical)
-
----
 
 ### 📫 Benimle İletişime Geç
 
